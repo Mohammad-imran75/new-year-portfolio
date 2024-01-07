@@ -106,3 +106,14 @@
     margin-top: 15px;
     margin: auto;
 }
+/* footer section styles */
+.footer-titel{
+    margin-top: 100px;
+}
+.footer-section{
+    background-image: url("../images/watch.png");
+    border: 8px;
+    width: 1140;
+    height: 400;
+   
+}
