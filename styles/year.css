@@ -40,3 +40,42 @@
 
 }
 /* failure related style */
+.failure{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-bottom: 130px;
+}
+.failure-item-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    
+}
+.failure-img{
+    height: 724px;
+    width: 568px;
+    display: flex;
+    margin-top: 100px;
+}
+.failure-item-description{
+    font-size:16px ;
+    font-weight:400px ;
+    color:#444343 ;
+    margin-top: 25px;
+}
+.failure-item-list{
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+    margin-top: 8px;
+}
+.background-circle{
+    background-color: #F15B22;
+    width: 528px;
+    height: 528px;
+    border-radius: 528px;
+}
+.failure-item{
+    margin-top: 370px;
+}
