@@ -1,0 +1,42 @@
+.header{
+    background-image: url("/images/banner/banner1.png");
+    text-align: right;
+    min-width: 808px;
+    width: 100%;
+}
+ 
+
+.head-section{
+    text-align: right;
+    color: #151414;
+    font-size: 45px;
+    font-weight: 700px;
+    padding-top: 200px;
+    padding-left: 840px;
+    padding-right: 230px;
+}
+.para-section{
+    color: #444343;
+    font-size: 15px;
+    font-weight: 400px;
+    padding-left: 870px;
+    padding-top: 0px;
+    padding-right: 230px;
+    border-radius: 5px;
+    
+
+}
+.btn-primary{
+    width: 160px;
+    height: 60px;
+    background-color:#F15B22;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 20px 25px;
+    margin-right: 230px;
+    margin-top: 10px;
+
+}
+/* failure related style */
